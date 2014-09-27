@@ -6,8 +6,8 @@
 </description>
     <link>http://learnenglish.github.io/immic/</link>
     <atom:link href="http://learnenglish.github.io/immic/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 27 Sep 2014 11:07:50 +0200</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2014 11:07:50 +0200</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2014 12:59:22 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Sep 2014 12:59:22 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -18,8 +18,8 @@
 
 </description>
         <pubDate>Sat, 27 Sep 2014 16:49:25 +0200</pubDate>
-        <link>http://learnenglish.github.io/immic/new-entry2</link>
-        <guid isPermaLink="true">http://learnenglish.github.io/immic/new-entry2</guid>
+        <link>http://learnenglish.github.io/immic/video/new-entry2.html</link>
+        <guid isPermaLink="true">http://learnenglish.github.io/immic/video/new-entry2.html</guid>
         
         
         <category>video</category>
@@ -34,8 +34,8 @@
 
 </description>
         <pubDate>Sat, 27 Sep 2014 16:49:25 +0200</pubDate>
-        <link>http://learnenglish.github.io/immic/new-entry</link>
-        <guid isPermaLink="true">http://learnenglish.github.io/immic/new-entry</guid>
+        <link>http://learnenglish.github.io/immic/posts/new-entry.html</link>
+        <guid isPermaLink="true">http://learnenglish.github.io/immic/posts/new-entry.html</guid>
         
         
         <category>posts</category>
@@ -50,8 +50,8 @@
 
 </description>
         <pubDate>Sat, 27 Sep 2014 16:49:25 +0200</pubDate>
-        <link>http://learnenglish.github.io/immic/Copy</link>
-        <guid isPermaLink="true">http://learnenglish.github.io/immic/Copy</guid>
+        <link>http://learnenglish.github.io/immic/fun/Copy.html</link>
+        <guid isPermaLink="true">http://learnenglish.github.io/immic/fun/Copy.html</guid>
         
         
         <category>fun</category>
@@ -76,8 +76,8 @@
 
 </description>
         <pubDate>Fri, 26 Sep 2014 16:49:25 +0200</pubDate>
-        <link>http://learnenglish.github.io/immic/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://learnenglish.github.io/immic/welcome-to-jekyll</guid>
+        <link>http://learnenglish.github.io/immic/jekyll/update/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://learnenglish.github.io/immic/jekyll/update/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
